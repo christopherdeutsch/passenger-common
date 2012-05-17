@@ -1,0 +1,5 @@
+passenger-common (3.0.12-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Chris Deutsch <christopher@rightscale.com>  Fri, 11 May 2012 22:44:44 +0000
